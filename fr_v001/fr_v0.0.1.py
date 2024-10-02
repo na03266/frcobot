@@ -1,7 +1,7 @@
 # if you can't find path apply 'import sys'
 # import sys
 # sys.path.append("D:\\frcobot\\windows")
-from  fairino import Robot
+from  fairino_linux import Robot
 import math
 import time
 
